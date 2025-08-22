@@ -30,4 +30,5 @@ Abra o jogo
 Quando o menu do gate aparecer, é só pressionar uma das teclas (de 1 a 5) para enviar um destino
 
 Demonstração
-(macro-rogue/demo.gif)
+![Exemplo do macro](demo.gif)
+
